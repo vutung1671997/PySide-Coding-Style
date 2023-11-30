@@ -1,4 +1,3 @@
-markdown_content = """
 # PySide Coding Style
 
 ## Biến Số Nguyên:
