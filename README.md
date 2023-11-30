@@ -1,7 +1,5 @@
 # PySide Coding Style
 
-## Biến Số Nguyên:
-```python
 # numberOf hoặc Count
 numberOf_tickets = 10
 ticket_count = 20
@@ -55,4 +53,4 @@ python
 Copy code
 # Chữ hoa và cách nhau bởi _
 TOOLTIP_SHOW_DELAY_IN_MILLISECS = 2000
-Lưu ý rằng trong Python, chuẩn PEP 8 là một hướng dẫn quy tắc đặt tên được chấp nhận rộng rãi.
+Lưu ý rằng trong Python, chuẩn PEP 8 là một hướng dẫn quy tắc đặt tên được chấp nhận rộng rãi. Điều này không phải là quy tắc cứng nhắc, nhưng nên tuân thủ để mã của bạn dễ đọc và dễ hiểu hơn.
