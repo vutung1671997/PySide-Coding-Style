@@ -56,11 +56,3 @@ Copy code
 # Chữ hoa và cách nhau bởi _
 TOOLTIP_SHOW_DELAY_IN_MILLISECS = 2000
 Lưu ý rằng trong Python, chuẩn PEP 8 là một hướng dẫn quy tắc đặt tên được chấp nhận rộng rãi.
-"""
-
-file_path = "pyside_coding_style.md"
-
-with open(file_path, "w") as file:
-file.write(markdown_content)
-
-print(f"Markdown content has been written to {file_path}")
